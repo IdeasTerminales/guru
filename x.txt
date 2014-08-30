@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 primeraprueba
 otra prueba
 dev
 master
+=======
+x primeraprueba
+>>>>>>> 6b3bde6cbb2c83dc8ab2029b4b0b355cb0e15781
